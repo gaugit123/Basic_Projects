@@ -11,25 +11,12 @@ The application loads images from a wallpapers folder and allows the user to bro
 * **Pillow (PIL)** — for loading and resizing images
 * **OS module** — for accessing files in the wallpapers folder
 
-## 📁 Project Structure
-
-Wallpaper-viewer_app/
-│
-├── wallpapers/
-│   ├── wallpaper1.jpg
-│   ├── wallpaper2.jpg
-│   ├── wallpaper3.png
-│   └── ...
-│
-├── main.py
-└── README.md
-
 ## ⚙️ Installation
 
 ### 1. Clone the repository
 
-git clone https://github.com/gaugit123/Wallpaper-viewer_app.git
-cd Wallpaper-viewer_app
+git clone https://github.com/gaugit123/Wallpaper_viewer_app.git
+cd Wallpaper_viewer_app
 
 ### 2. Install Pillow
 
