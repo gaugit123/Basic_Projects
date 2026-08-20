@@ -1,10 +1,10 @@
-# 🎮 Tic-Tac-Toe
+# Tic-Tac-Toe
 
 A simple and interactive **Tic-Tac-Toe game** built using **HTML, CSS, and JavaScript**.
 
 The game allows two players to play Tic-Tac-Toe in the browser. Players take turns placing **O** and **X** on a 3×3 game board. The game automatically detects the winner and provides options to start a new game or reset the current game.
 
-## ✨ Features
+## Features
 
 * 🎮 Two-player gameplay
 * ❌ Player X and ⭕ Player O
@@ -15,7 +15,7 @@ The game allows two players to play Tic-Tac-Toe in the browser. Players take tur
 * 📱 Responsive game board using CSS viewport units
 * 🎨 Simple and colorful user interface
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **HTML5** — for the structure of the game
 * **CSS3** — for styling and layout
@@ -32,7 +32,7 @@ Tic_Tac_Toe/
 └── README.md
 ```
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Clone the repository
 
@@ -67,7 +67,7 @@ The game checks these 8 possible winning combinations:
 
 These represent the three rows, three columns, and two diagonals of the board.
 
-## 🧠 JavaScript Concepts Used
+## JavaScript Concepts Used
 
 This project helped implement several important JavaScript concepts:
 
