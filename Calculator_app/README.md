@@ -24,10 +24,10 @@ The calculator provides a graphical interface for performing basic arithmetic op
 
 ## 📁 Project Structure
 
-```text
-Python-Calculator/
+```
+Calculator_app/
 │
-├── calculator.py
+├── main.py
 └── README.md
 ```
 
@@ -35,17 +35,17 @@ Python-Calculator/
 
 ### 1. Clone the repository
 
-```bash
-git clone https://github.com/gaugit123/Python-Calculator.git
-cd Python-Calculator
+```
+git clone https://github.com/gaugit123/Calculator_app.git
+cd Calculator_app
 ```
 
 ### 2. Run the application
 
 No external Python packages are required because Tkinter is included with most standard Python installations.
 
-```bash
-python calculator.py
+```
+python calculator_app.py
 ```
 
 ## 🖥️ How It Works
@@ -54,7 +54,7 @@ The calculator uses Tkinter buttons to receive user input and a label to display
 
 For example:
 
-```text
+```
 10 + 5 = 15
 20 - 8 = 12
 6 x 4 = 24
