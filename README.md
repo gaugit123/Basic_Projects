@@ -1,8 +1,6 @@
 # Basic-Learning-Projects
 
-Welcome to my project repository!
-
-This repository contains some of the projects I built while learning and practicing programming. These projects cover different technologies, including **Python, Tkinter, HTML, CSS, and JavaScript**.
+This repository contains the projects, I built while learning and practicing programming. These projects cover different technologies, including **Python, Tkinter, HTML, CSS, and JavaScript**.
 
 > 📌 **Note:** Some of these projects were created around 2 years ago as part of my early programming journey. They are kept here as a record of my learning progress and development over time.
 
