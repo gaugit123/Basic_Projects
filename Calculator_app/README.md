@@ -45,7 +45,7 @@ cd Calculator_app
 No external Python packages are required because Tkinter is included with most standard Python installations.
 
 ```
-python calculator_app.py
+python Calculator_app.py
 ```
 
 ## 🖥️ How It Works
@@ -64,8 +64,5 @@ For example:
 
 The application stores the first number, selected operator, and second number before calculating the final result.
 
-## ⚠️ Known Limitations
-
-This is a beginner-friendly calculator implementation, so some edge cases may not be handled yet, such as invalid expressions, repeated decimal points, or division by zero.
 
 If you found this project useful, feel free to ⭐ the repository!
